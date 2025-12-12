@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "那些年-我们一起追过的女孩"
-date:   2025-12-12
+date: 2025-12-12
 tags: [daily]
 comments: true
 author: lalalawr
